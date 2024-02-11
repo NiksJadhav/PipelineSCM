@@ -20,16 +20,5 @@ pipeline {
             }
         }
         
-        stage('Test') {
-            steps {
-                echo 'Hello Test'
-            }
-        }
-        
-        stage('Release') {
-            steps {
-                echo 'Hello Release'
-            }
-        }
-    }
+     }
 }
