@@ -30,5 +30,5 @@ pipeline {
                 echo 'Hello Release'
             }
         }
-    }
+    
 }
